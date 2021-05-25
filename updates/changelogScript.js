@@ -1,4 +1,6 @@
 const changelog = `
+v0.2.5 - Added health bar!
+<br>
 v0.2.3 - Apples can now rot
 <br>
 v0.2 - Major bug fixes
