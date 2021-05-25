@@ -1,4 +1,10 @@
 const changelog = `
+v0.2.11 - Collecting wood inside a tree can push you out (sorry if you're in a tall tree XD)
+<br>
+v0.2.9 - Added Eyes
+<br>
+v0.2.7 - Bug Fixes
+<br>
 v0.2.5 - Added health bar!
 <br>
 v0.2.3 - Apples can now rot
