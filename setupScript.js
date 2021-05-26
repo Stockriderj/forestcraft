@@ -34,3 +34,10 @@ const code = `
 `;
 
 document.getElementById("navSlot").innerHTML = code;
+
+const toTop = document.createElement("a");
+toTop.classList.add("btn", "btn-secondary", "fixed-bottom");
+toTop.setAttribute("href", "#top");
+toTop.setAttribute("style", "margin-left: 90%;");
+toTop.innerHTML = "Back to top";
+document.body.appendChild(toTop);
