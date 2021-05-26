@@ -1,4 +1,6 @@
 const changelog = `
+v0.4.4 - /give now works on stone
+<br>
 v0.4.2 - Details for boulders
 <br>
 v0.4 - Added boulders and stone (useless)
