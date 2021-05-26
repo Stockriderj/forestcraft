@@ -1,4 +1,8 @@
 const changelog = `
+v0.3.9 - Added /drain command
+<br>
+v0.3.7 - Added /kill and /give commands (finally, after so many tries!)
+<br>
 v0.3 - Death item drops now stack + bug fixes
 <br>
 v0.2.18 - Bug fixes
