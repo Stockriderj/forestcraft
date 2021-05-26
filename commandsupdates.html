@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forest Update | ForestCraft</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+    <link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+    <div id="navSlot"></div>
+    <div id="content" class="container-fluid">
+        <h1 class="display-1">Command Updates</h1>
+        <p class="lead">The Command Updates is a <a href="update-chains.html">update chain</a> spanning
+            from v0.3.7 to v0.3.9 (that is, the most recent version).</p>
+
+        <!-- New Features -->
+        <div>
+            <h2 class="display-3">New Features</h2>
+
+            <!-- Commands -->
+            <div>
+                <h3 class="display-4">Commands</h3>
+                <p class="lead">It's in the name. /give brain 1.</p>
+                <p>There were many commands added in this chain update:</p>
+                <ul class="list-group mb-5 w-75">
+                    <li class="list-group-item">v0.3.7 - Added /kill and /give commands.</li>
+                    <li class="list-group-item">v0.3.9 - Added /drain command.</li>
+                    <li class="list-group-item">v0.3.15 - Added /takedamage command.</li>
+                </ul>
+
+            </div>
+
+            <!-- /takedamage Trails -->
+            <div>
+                <h3 class="display-4">/takedamage Trails</h3>
+                <p class="lead">In v0.3.15, the command /takedamage added an interesting exploit.</p>
+                <p>Sure, while /kill is shorter, there is an interesting trick you can pull with /takedamage:
+                    /takedamage trails.</p>
+                <p>How is works is, you open up the chat and type /takedamage. Nothing out of the ordinary, right?</p>
+                <figure>
+                    <img src="images/commands-updates-takedamage-trail1.png"
+                        alt="Actually, you're supposed to input a huge number." class="img-fluid rounded">
+                    <figcaption class="figure-caption mt-0">(This image was taken in v0.3.15.)</figcaption>
+                </figure>
+                <p>What this does is kill you immediately. But the blood particles will continue to fall from your body
+                    even if you respawn because of the immense damage you took. Therefore, you have this red trail
+                    wherever you go.</p>
+                <img src="images/commands-updates-takedamage-trail2.png" class="img-fluid rounded w-25">
+                <p>Could anything look stupider than this? The answer is yes. If you walk on the grass for a while, the
+                    blood particles...they...</p>
+                <img src="images/commands-updates-takedamage-trail3.png" class="img-fluid rounded w-25">
+                <p>This is yet <em>another</em> exploit, because when you walk over grass, grass particles will appear.
+                </p>
+            </div>
+
+        </div>
+
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4"
+        crossorigin="anonymous"></script>
+
+    <script src="setupScript.js"></script>
+</body>
+
+</html>

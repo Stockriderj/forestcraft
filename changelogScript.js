@@ -1,5 +1,7 @@
 const changelog = `
-v0.3.12 - Fixed bug where apples get stuck in the ground (like literally in the ground)
+v0.3.15 - Added /takedamage command
+<br>
+v0.3.12 - Partly fixed bug where apples get stuck in the ground (like literally in the ground)
 <br>
 v0.3.9 - Added /drain command
 <br>

@@ -4,6 +4,10 @@
     font-family: "Exo 2", sans-serif;
 }
 
+#content {
+    margin-top: 50px;
+}
+
 a {
     transition: 0.2s;
     text-decoration: none;
