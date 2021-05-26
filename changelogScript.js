@@ -1,4 +1,8 @@
 const changelog = `
+v0.3 - Death item drops now stack + bug fixes
+<br>
+v0.2.18 - Bug fixes
+<br>
 v0.2.11 - Collecting wood inside a tree can push you out (sorry if you're in a tall tree XD)
 <br>
 v0.2.9 - Added Eyes
