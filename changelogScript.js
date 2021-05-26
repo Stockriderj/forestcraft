@@ -1,4 +1,6 @@
 const changelog = `
+v0.3.16 - Improved scrolling
+<br>
 v0.3.15 - Added /takedamage command
 <br>
 v0.3.12 - Partly fixed bug where apples get stuck in the ground (like literally in the ground)
