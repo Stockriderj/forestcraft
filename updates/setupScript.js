@@ -21,10 +21,11 @@ const code = `
             Updates
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <li><a class="dropdown-item" href="./changelog.html">Changelog</a></li>
+            <li><a class="dropdown-item" href="changelog.html">Changelog</a></li>
             <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="./commandsupdates.html">Commands Updates</a></li>
-            <li><a class="dropdown-item" href="./forestupdate.html">Forest Update</a></li>
+            <li><a class="dropdown-item" href="boulderupdates.html">Boulder Updates</a></li>
+            <li><a class="dropdown-item" href="commandsupdates.html">Commands Updates</a></li>
+            <li><a class="dropdown-item" href="forestupdate.html">Forest Update</a></li>
           </ul>
         </li>
     </div>

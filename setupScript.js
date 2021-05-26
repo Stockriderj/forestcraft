@@ -23,6 +23,7 @@ const code = `
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
             <li><a class="dropdown-item" href="updates/changelog.html">Changelog</a></li>
             <li><hr class="dropdown-divider"></li>
+            <li><a class="dropdown-item" href="updates/boulderupdates.html">Boulder Updates</a></li>
             <li><a class="dropdown-item" href="updates/commandsupdates.html">Commands Updates</a></li>
             <li><a class="dropdown-item" href="updates/forestupdate.html">Forest Update</a></li>
           </ul>

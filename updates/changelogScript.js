@@ -1,4 +1,8 @@
 const changelog = `
+v0.4.2 - Details for boulders
+<br>
+v0.4 - Added boulders and stone (useless)
+<br>
 v0.3.16 - Improved scrolling
 <br>
 v0.3.15 - Added /takedamage command
