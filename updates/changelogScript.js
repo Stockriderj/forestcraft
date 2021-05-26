@@ -1,4 +1,24 @@
 const changelog = `
+v0.3.16 - Improved scrolling
+<br>
+v0.3.15 - Added /takedamage command
+<br>
+v0.3.12 - Partly fixed bug where apples get stuck in the ground (like literally in the ground)
+<br>
+v0.3.9 - Added /drain command
+<br>
+v0.3.7 - Added /kill and /give commands (finally, after so many tries!)
+<br>
+v0.3 - Death item drops now stack + bug fixes
+<br>
+v0.2.18 - Bug fixes
+<br>
+v0.2.11 - Collecting wood inside a tree can push you out (sorry if you're in a tall tree XD)
+<br>
+v0.2.9 - Added Eyes
+<br>
+v0.2.7 - Bug Fixes
+<br>
 v0.2.5 - Added health bar!
 <br>
 v0.2.3 - Apples can now rot
