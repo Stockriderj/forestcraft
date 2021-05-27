@@ -1,4 +1,8 @@
 const changelog = `
+v0.5.6 - Bug fixes; all items are now in the inventory
+<br>
+v0.5.3 - Apples are now one of the death items!
+<br>
 v0.5 - Added inventory (big update!)
 <br>
 v0.4.8 - Bug fixes
