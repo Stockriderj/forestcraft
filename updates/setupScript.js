@@ -41,3 +41,9 @@ toTop.setAttribute("href", "#top");
 toTop.setAttribute("style", "margin-left: 90%;");
 toTop.innerHTML = "Back to top";
 document.body.appendChild(toTop);
+
+const faviconCode = `
+<link rel="icon" type="image/png" href="../images/logo.png">
+`;
+
+document.head.innerHTML += faviconCode;
