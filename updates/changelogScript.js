@@ -1,4 +1,10 @@
 const changelog = `
+v0.5 - Added inventory (big update!)
+<br>
+v0.4.8 - Bug fixes
+<br>
+v0.4.6 - Added stop animation
+<br>
 v0.4.4 - /give now works on stone
 <br>
 v0.4.2 - Details for boulders
