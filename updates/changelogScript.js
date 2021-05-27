@@ -1,4 +1,6 @@
 const changelog = `
+v0.5.10 - Bug Fixes
+<br>
 v0.5.9 - Added...er...an easter egg. Yeah. An easter egg. Yeet...
 <br>
 v0.5.7 - Bug fixes; all items are now in the inventory
