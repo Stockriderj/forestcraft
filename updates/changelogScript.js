@@ -1,4 +1,6 @@
 const changelog = `
+v0.5.14 - Improved apple physics
+<br>
 v0.5.10 - Bug Fixes
 <br>
 v0.5.9 - Added...er...an easter egg. Yeah. An easter egg. Yeet...
