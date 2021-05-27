@@ -1,5 +1,7 @@
 const changelog = `
-v0.5.6 - Bug fixes; all items are now in the inventory
+v0.5.9 - Added...er...an easter egg. Yeah. An easter egg. Yeet...
+<br>
+v0.5.7 - Bug fixes; all items are now in the inventory
 <br>
 v0.5.3 - Apples are now one of the death items!
 <br>
