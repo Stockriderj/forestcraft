@@ -1,4 +1,6 @@
 const changelog = `
+v0.5.20 - Majore apple physics fixes
+<br>
 v0.5.17 - Fixed apple-inventory-close-stop-eating bug and improved apple physics
 <br>
 v0.5.10 - Bug Fixes

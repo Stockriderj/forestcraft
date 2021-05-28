@@ -4,6 +4,13 @@
     font-family: "Exo 2", sans-serif;
 }
 
+.navbar {
+    background-image: url("https://cdn2.scratch.mit.edu/get_image/project/534834846_144x108.png");
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 #content {
     margin-top: 5em;
 }
