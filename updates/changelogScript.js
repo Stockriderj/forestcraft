@@ -1,4 +1,6 @@
 const changelog = `
+v0.6.2 - Busher: They push you and you push them.
+<br>
 v0.6 - Added Busher
 <br>
 v0.5.20 - Major apple physics fixes
