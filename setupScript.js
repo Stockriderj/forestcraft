@@ -1,5 +1,5 @@
 const code = `
-<nav class="navbar navbar-expand-lg navbar-dark fixed-top" style="background-color: forestgreen;">
+<nav class="navbar navbar-expand-lg navbar-light fixed-top" style="background-color: forestgreen;">
   <div class="container-fluid">
     <a class="navbar-brand" href="index.html"><img src="images/logo.png" alt="ForestCraft" class="img-fluid rounded-pill" style="width: 40px;"></a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -23,7 +23,7 @@ const code = `
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
             <li><a class="dropdown-item" href="updates/changelog.html">Changelog</a></li>
             <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="updates/inventoryupdates.html">Inventory Updates</a></li>
+            <li><a class="dropdown-item" href="updates/mobupdates.html">Mob Updates</a></li>
             <li><a class="dropdown-item" href="updates/boulderupdates.html">Boulder Updates</a></li>
             <li><a class="dropdown-item" href="updates/forestupdate.html">Forest Update</a></li>
           </ul>
