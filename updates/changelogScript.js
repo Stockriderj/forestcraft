@@ -1,4 +1,8 @@
 const changelog = `
+v0.6.10 - Made Bushers smaller
+<br>
+v0.6.9 - Randomized item drops (Busher)
+<br>
 v0.6.8 - Busher now drops loot instead of directly giving it to the player
 <br>
 v0.6.5 - Added cooldown (for player) and fixed glitch-through-trees glitch (Bushers).
