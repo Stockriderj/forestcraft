@@ -1,4 +1,6 @@
 const changelog = `
+v0.6.13 - Gave Bushers their first sounds! Very obnoxious.
+<br>
 v0.6.10 - Made Bushers smaller
 <br>
 v0.6.9 - Randomized item drops (Busher)
