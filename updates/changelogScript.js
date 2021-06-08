@@ -1,4 +1,6 @@
 const changelog = `
+v0.6.18 - Wood now drops instead of going magically into your inventory.
+<br>
 v0.6.15 - Added a girl skin (for girls, duh)
 <br>
 v0.6.13 - Gave Bushers their first sounds! Very obnoxious.
