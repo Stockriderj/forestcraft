@@ -23,3 +23,12 @@ a {
 .navbar-brand:hover {
     filter: brightness(4);
 }
+
+/* Gallery */
+#gallery-grid-container div.row {
+    display: flex;
+}
+
+#gallery-grid-container div.row {
+    align-items: center;
+}
