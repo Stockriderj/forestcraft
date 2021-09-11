@@ -26,9 +26,5 @@ a {
 
 /* Gallery */
 #gallery-grid-container div.row {
-    display: flex;
-}
-
-#gallery-grid-container div.row {
     align-items: center;
 }
